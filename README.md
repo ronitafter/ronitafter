@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-https://media.giphy.com/media/l0MYsC1UC0BGwG2SQ/giphy.gif
-
 <!--
 **ronitafter/ronitafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![alt text](![image](https://user-images.githubusercontent.com/54575125/184479705-da6a833a-479a-4c80-83aa-f3c8fa0ecb13.png))
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
