@@ -10,10 +10,14 @@ my skills:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="30" height="30">
  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="30" height="30">
  <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="30" height="30">
-  <img src="https://icon2.cleanpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg
+  
+   <img src=" https://banner2.cleanpng.com/20180513/eiw/kisspng-javascript-node-js-logo-computer-programming-progr-5af871b4831445.9234603315262314765369.jpg
 " width="30" height="30">
 
+ 
+ 
 </p>
+
 
 
 
