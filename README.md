@@ -1,5 +1,5 @@
 ### Hi there 👋
-![test]([[https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=2000](https://previews.123rf.com/images/monsitj/monsitj2007/monsitj200700029/153258909-programming-code-abstract-technology-background-of-software-developer-and-computer-script-banner-3d-.jpg)](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=900&t=st=1660387303~exp=1660387903~hmac=f8ddee0da70f7052a43009a9fe9c58a49a5d39d9e4fc520bc8c9464d8d43e0b5))
+![test](![image](https://user-images.githubusercontent.com/54575125/184480188-69f12a76-bc82-4e7b-9e14-042acb93b238.png))
 
 
 <!--
