@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
 
-<img src="[https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif](https://wallpapercave.com/wp/wp10167050.jpg)" width="750" height="250">
+<img src="https://wallpapercave.com/wp/wp10167050.jpg" width="750" height="250">
 
 
 <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="750" height="250">
