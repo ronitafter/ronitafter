@@ -1,8 +1,9 @@
 ### Hi there 👋
+![vvv](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRJmdYq7SXWx1zvlpZMmaK08zOzgNfLf0IE8AbgW72vo49fyQLyfEtvoF9sQyQ2dpRFvhQhiXeRNErogFcaAMA)
+
 
 <!--
 **ronitafter/ronitafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![vvv](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRJmdYq7SXWx1zvlpZMmaK08zOzgNfLf0IE8AbgW72vo49fyQLyfEtvoF9sQyQ2dpRFvhQhiXeRNErogFcaAMA)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
