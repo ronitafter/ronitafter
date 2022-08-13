@@ -2,7 +2,7 @@
 
 <!--
 **ronitafter/ronitafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![alt text](![image](https://user-images.githubusercontent.com/54575125/184479705-da6a833a-479a-4c80-83aa-f3c8fa0ecb13.png))
+![vvv](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRJmdYq7SXWx1zvlpZMmaK08zOzgNfLf0IE8AbgW72vo49fyQLyfEtvoF9sQyQ2dpRFvhQhiXeRNErogFcaAMA)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
