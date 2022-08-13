@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif)
 
-<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="100" hight="50">
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="100" hight="500">
 
 
 
