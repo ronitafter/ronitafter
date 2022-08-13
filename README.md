@@ -1,5 +1,6 @@
 ### Hi there 👋 
-## :computer: I’m a full stack developer
+### My name is Ronit
+### :computer: I’m a full stack developer
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
 
 <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg" width="650" height="200">
