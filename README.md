@@ -24,7 +24,10 @@
 ##
 ### what i'm doing at the moment:
 - #### :computer: looking for a junior full stack development position
-- #### I’m currently learning ...
+- #### I’m currently learning...
+- #### I’m working on an interesting mern project
 - #### 📫 How to reach me: ronitafter@gmail.com
 ##
 <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="500" height="250">
+
+## latest projects....
