@@ -3,11 +3,6 @@
 
 <img src="https://wallpapercave.com/wp/wp10167050.jpg" width="750" height="300">
 
-
-<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="750" height="250">
-
-
-
 ## :computer: I’m a full stack developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +12,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="750" height="250">
