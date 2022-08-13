@@ -1,4 +1,4 @@
-### Hi there 👋 
+# Hi there 👋 
 ### My name is Ronit
 ### :computer: I’m a full stack developer
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
