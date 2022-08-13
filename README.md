@@ -2,7 +2,7 @@
 ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif))
 ## :computer:
 
-<!--
+
 **ronitafter/ronitafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
