@@ -1,7 +1,7 @@
 #### Hi there 👋  My name is Ronit and :computer: I’m a full stack developer
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
 
-<img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg" width="650" height="200">
+<img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg" width="700" height="200">
 
 ##
 ### my skills:
@@ -23,7 +23,7 @@
 
 ##
 ### what i'm doing at the moment:
-- :computer: looking for a junior full stack development position
+- ### :computer: looking for a junior full stack development position
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
