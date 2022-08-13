@@ -1,5 +1,5 @@
 ### Hi there 👋
-![vvv](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRJmdYq7SXWx1zvlpZMmaK08zOzgNfLf0IE8AbgW72vo49fyQLyfEtvoF9sQyQ2dpRFvhQhiXeRNErogFcaAMA)
+![vvv](![1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN](https://user-images.githubusercontent.com/54575125/184479937-1f5ed4b6-fba8-48ef-b517-a96ddf95ecd6.jpg))
 
 
 <!--
